@@ -1,0 +1,13 @@
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\BricachocBll.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\BricachocBll.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\BricachocDal.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\EntityFramework.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\BricachocDal.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\EntityFramework.xml
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\obj\Release\BricachocBll.csprojResolveAssemblyReference.cache
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\obj\Release\BricachocBll.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBll\obj\Release\BricachocBll.pdb

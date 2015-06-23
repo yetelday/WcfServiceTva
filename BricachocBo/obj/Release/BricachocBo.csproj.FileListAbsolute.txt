@@ -1,0 +1,5 @@
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\bin\Release\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\bin\Release\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\obj\Release\BricachocBo.csprojResolveAssemblyReference.cache
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\obj\Release\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\obj\Release\BricachocBo.pdb

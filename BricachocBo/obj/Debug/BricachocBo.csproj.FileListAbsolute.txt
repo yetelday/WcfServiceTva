@@ -1,0 +1,40 @@
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal\BricachocBo\obj\Debug\BricachocBo.csprojResolveAssemblyReference.cache
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Copie\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Copie\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Copie\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Copie\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Strategie- 1 connection par Dao\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Strategie- 1 connection par Dao\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Strategie- 1 connection par Dao\BricachocBo\obj\Debug\BricachocBo.csprojResolveAssemblyReference.cache
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Strategie- 1 connection par Dao\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P1\Bricachoc Nominal - Dal - Strategie- 1 connection par Dao\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity - Non generic\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity - Non generic\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity - Non generic\BricachocBo\bin\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P2\Bricachoc Nominal - Dal - Strategie - Entity - Non generic\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P2\Asp.Net MVC\BricachocMvc\BricachocBo\obj\Debug\BricachocBo.csprojResolveAssemblyReference.cache
+D:\Documents\Exercices 2012\M4 ntiers P2\Asp.Net MVC\BricachocMvc\BricachocBo\obj\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P2\Asp.Net MVC\BricachocMvc\BricachocBo\obj\Debug\BricachocBo.pdb
+D:\Documents\Exercices 2012\M4 ntiers P2\Asp.Net MVC\BricachocMvc\BricachocBo\bin\Debug\BricachocBo.dll
+D:\Documents\Exercices 2012\M4 ntiers P2\Asp.Net MVC\BricachocMvc\BricachocBo\bin\Debug\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\bin\Debug\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\bin\Debug\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\obj\Debug\BricachocBo.csprojResolveAssemblyReference.cache
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\obj\Debug\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\obj\Debug\BricachocBo.pdb
