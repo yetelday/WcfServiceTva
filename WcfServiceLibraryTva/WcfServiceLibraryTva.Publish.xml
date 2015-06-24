@@ -1,0 +1,19 @@
+<publishData>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\Geronimo\">
+    <file relUrl="Web.config" publishTime="06/24/2015 14:49:38" />
+    <file relUrl="bin/WcfServiceLibraryTva.pdb" publishTime="06/24/2015 14:53:07" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="06/22/2015 16:10:37" />
+    <file relUrl="bin/WcfServiceLibraryTva.dll" publishTime="06/24/2015 14:53:07" />
+    <file relUrl="bin/BricachocDal.pdb" publishTime="06/24/2015 14:53:07" />
+    <file relUrl="bin/BricachocBll.dll" publishTime="06/24/2015 14:53:07" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="06/22/2015 16:10:37" />
+    <file relUrl="bin/BricachocBo.dll" publishTime="06/24/2015 14:53:06" />
+    <file relUrl="bin/WcfServiceLibraryTva.dll.config" publishTime="06/24/2015 14:49:38" />
+    <file relUrl="bin/BricachocBll.pdb" publishTime="06/24/2015 14:53:07" />
+    <file relUrl="bin/EntityFramework.SqlServer.xml" publishTime="06/22/2015 16:10:37" />
+    <file relUrl="bin/BricachocDal.dll" publishTime="06/24/2015 14:53:07" />
+    <file relUrl="WcfServiceLibraryTva.ServiceTva.svc" publishTime="06/24/2015 14:53:10" />
+    <file relUrl="bin/EntityFramework.SqlServer.dll" publishTime="06/22/2015 16:10:37" />
+    <file relUrl="bin/BricachocBo.pdb" publishTime="06/24/2015 14:53:06" />
+  </publishTarget>
+</publishData>

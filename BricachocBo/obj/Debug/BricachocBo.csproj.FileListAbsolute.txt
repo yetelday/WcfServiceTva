@@ -38,3 +38,8 @@ C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\Bric
 C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\obj\Debug\BricachocBo.csprojResolveAssemblyReference.cache
 C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\obj\Debug\BricachocBo.dll
 C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\BricaChocMVC\BricachocBo\obj\Debug\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\bin\Debug\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\bin\Debug\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\obj\Debug\BricachocBo.csprojResolveAssemblyReference.cache
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\obj\Debug\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\BricachocBo\obj\Debug\BricachocBo.pdb

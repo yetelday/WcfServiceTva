@@ -1,0 +1,16 @@
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\WcfServiceLibraryTva.dll.config
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\WcfServiceLibraryTva.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\WcfServiceLibraryTva.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\BricachocBll.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\BricachocBo.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\BricachocDal.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\EntityFramework.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\BricachocBll.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\BricachocBo.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\BricachocDal.pdb
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\EntityFramework.xml
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\obj\Debug\WcfServiceLibraryTva.csprojResolveAssemblyReference.cache
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\obj\Debug\WcfServiceLibraryTva.dll
+C:\Users\cdi01.03112-372\Documents\Visual Studio 2015\Projects\WcfServiceTva\WcfServiceLibraryTva\obj\Debug\WcfServiceLibraryTva.pdb
